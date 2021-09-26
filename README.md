@@ -1,3 +1,7 @@
+
+是一个可以跨平台的检查工具
+Sleuth Kit®(TSK)是一个命令行数字取证工具库和集合，允许您调查卷和文件系统数据。这个库可以整合到更大的数字取证工具中，命令行工具可以直接用于寻找证据。
+
 [![Build Status](https://travis-ci.org/sleuthkit/sleuthkit.svg?branch=develop)](https://travis-ci.org/sleuthkit/sleuthkit)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8f7ljj8s2lh5sqfv?svg=true)](https://ci.appveyor.com/project/bcarrier/sleuthkit)
